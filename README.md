@@ -23,6 +23,3 @@ Dear stranger, here you are welcome to share, apply, and review my work during t
   
   10.
   
-  
-  
-<img src="https://github.com/NikitaSmirnov22/git_for_geeks/blob/main/nerd.gif">

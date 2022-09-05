@@ -3,7 +3,7 @@ Dear stranger, here you are welcome to share, apply, and review my work during t
 
 **My portfolio consists of the following projects:**
   - **Project #1 :** [Visual Data Analysis](https://github.com/NikitaSmirnov22/SPICED_PROJECTS_2022/tree/main/Week_1)
-  - **Project #2 :** [Classification problem - Kaggle Titanic dataset](https://github.com/NikitaSmirnov22/SPICED_PROJECTS_2022/tree/main/Week%20%232) 
+  - **Project #2 :** [Classification problem - Kaggle Titanic dataset](https://github.com/NikitaSmirnov22/SPICED_PROJECTS_2022/tree/main/Week_2) 
   - **Project #3 :** [Regression problem - Kaggle Capital Bikeshare dataset](https://github.com/NikitaSmirnov22/SPICED_PROJECTS_2022/tree/main/Week%20%233)
   - **Project #4 :** [Text Classification problem - lyrics.com dataset](https://github.com/NikitaSmirnov22/SPICED_PROJECTS_2022/tree/main/Week%20%234)
   - **Project #5 :** [Interactive Dashboard - Northwind database](https://github.com/NikitaSmirnov22/SPICED_PROJECTS_2022/tree/main/Week_5)

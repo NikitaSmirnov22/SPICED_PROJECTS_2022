@@ -6,4 +6,4 @@ Skills acquired during the following project:
 
 - Applied **the Bash Command Line** to manage my project environment. 
 - Completed **GitHub basics** tutorial. 
-- Learnt to work with **pandas, numpy, and matplotlib** packages. 
+- Learnt to work with **pandas, numpy,** and **matplotlib** packages. 

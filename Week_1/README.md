@@ -1,4 +1,4 @@
-**#1 Project: Visual Data Analysis** - inspired by the animated graph of [Hans Rosling](https://www.youtube.com/watch?v=jbkSRLYSojo)
+**#1 Project: Visual Data Analysis** 📊📈- inspired by the animated graph of [Hans Rosling](https://www.youtube.com/watch?v=jbkSRLYSojo)
 
 In this project, I visually analyzed the Gapminder Dataset and used a pandas library to read the data and draw histograms as well as matplotlib to create the scatterplot.
 

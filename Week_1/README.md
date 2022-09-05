@@ -4,6 +4,6 @@ In this project, I visually analyzed the Gapminder Dataset and used a pandas lib
 
 Skills acquired during the following project: 
 
-- Applied the Bash Command Line to manage my project environment. 
-- Completed GitHub basics tutorial. 
-- Learnt to work with pandas, numpy, and matplotlib packages. 
+- Applied **the Bash Command Line** to manage my project environment. 
+- Completed **GitHub basics** tutorial. 
+- Learnt to work with **pandas, numpy, and matplotlib** packages. 

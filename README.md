@@ -12,4 +12,3 @@ Dear stranger, here you are welcome to share, apply, and review my work during t
   - **Project #8 :** [Markov Simulation - DOODL Supermarket dataset](https://github.com/NikitaSmirnov22/SPICED_PROJECTS_2022/tree/main/Week_8)
   - **Project #9 :** [Image Classifier(Xception, ResNEt, CNN, MobileNet, VGG16) + My own dataset](https://github.com/NikitaSmirnov22/SPICED_PROJECTS_2022/tree/main/Week_9)
   - **Project #10 :** [Recommender Systems - The MovieLens dataset](https://github.com/NikitaSmirnov22/SPICED_PROJECTS_2022/tree/main/Week_10)
-  - **FINAL PROJECT :** []()
